@@ -1,1 +1,5 @@
-1. ///
+# ...
+1. Install Git
+   ```
+   winget install --id Git.Git -e --source winget
+   ```
